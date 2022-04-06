@@ -27,7 +27,7 @@ What problems does it solve?
 We can use the generated fingerprints to compare them in a database and see which person they correspond to.
 
 How is it going to be done?
-Compute A model for fingerprint formation published in EUROPHYSICS LETTERS science journal,"DOI: 10.1209/epl/i2004-10161-2" that generates fingerprints based on initial parameters inserted by the user.
+Compute A fingerprint formation model published in the scientific journal EUROPHYSICS LETTERS, "DOI: 10.1209/epl/i2004-10161-2" to generate fingerprints from initial parameters inserted by the user.
 
 
 ____
@@ -69,7 +69,8 @@ ___
 
 ___
 # Reference_Source
-
+Europhys. Lett., 68 (1), pp. 141–146 (2004)
+DOI: 10.1209/epl/i2004-10161-2
 
 ___
 # Team_Members:
