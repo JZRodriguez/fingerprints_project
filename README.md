@@ -14,6 +14,20 @@ i___
 
 ____
 # Proyect_Overview:
+This project aims to develop a model for fingerprint formation. 
+
+# justification: 
+Why is it going to be done?
+
+
+What is it going to be done for?
+To study the behavior of the fingerprint pattern.
+
+What problems does it solve?
+We can use the generated fingerprints to compare them in a database and see which person they correspond to.
+
+How is it going to be done?
+The idea is to create an algorithm that generates fingerprints based on initial parameters inserted by the user.
 
 
 ____
