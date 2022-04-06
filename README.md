@@ -18,7 +18,7 @@ This project aims to develop a model for fingerprint formation.
 
 # justification: 
 Why is it going to be done?
-
+To analyze the biometric data of individuals.
 
 What is it going to be done for?
 To study the behavior of the fingerprint pattern.
