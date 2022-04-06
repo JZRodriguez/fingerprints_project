@@ -27,7 +27,7 @@ What problems does it solve?
 We can use the generated fingerprints to compare them in a database and see which person they correspond to.
 
 How is it going to be done?
-The idea is to create an algorithm that generates fingerprints based on initial parameters inserted by the user.
+Compute A model for fingerprint formation published in EUROPHYSICS LETTERS science journal,"DOI: 10.1209/epl/i2004-10161-2" that generates fingerprints based on initial parameters inserted by the user.
 
 
 ____
@@ -74,8 +74,8 @@ ___
 ___
 # Team_Members:
 
-* Luis Aarón Nieto Cruz  
-* Jadiel Zúñiga Rodriguez  
-* Miguel Ángel Zamorano Presa  
+* Luis Aarón Nieto Cruz.
+* Jadiel Zúñiga Rodriguez.
+* Miguel Ángel Zamorano Presa.
 
 
