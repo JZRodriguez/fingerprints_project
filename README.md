@@ -1,15 +1,20 @@
 # Dynamic_Systems_Fingerprint_Model
-UNAM-TICs-Dynamic Systems "Proyect "
-i___
+UNAM-TICs-Dynamic Systems "Proyect"
+
+____
 ## Table of Contents
 * [Proyect Overview](#Proyect_Overview)
+* [Introduction](#Introduction)
+* [Formulas](#Formulas)
+* [Justification](#Justification)
 * [Hypothesis](#Hypothesis)
-* [Reference_Source](#Reference_Source)
-* [Model_Building](#Model_Building)
-* [Conclusions](#Report)
+* [General Objectives](#General Objectives (our Research Questions))
+* [Specific Objectives](#Specific Objectives)
 * [Technologies](#Technologies)
+* [Packages](#Packages)
 * [Setup](#Setup)
-* [Team_Members](#Team_Members)
+* [References](#References)
+* [Team Members](#Team Members)
 
 
 ____
@@ -19,6 +24,17 @@ This project aims to develop a model for fingerprint formation.
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20patterns%202.jpg 'Fingerprints')
 
 # Introduction
+## What are fingerprints?
+Fingerprints are patterns of friction ridge skin. Our fingers, palms of hands and soles of feet are characterized by ridges (hills) and valleys (furrows). Patterns form on skin surfaces early in embyonic development and are carried through life
+
+## What are the patterns of fingerprints?
+There are three basic patterns of fingerprints:
+* Whorls: Most complex, and contain central pocket, double loop, and accidental
+* Loops: Radial or  ulnar, depending on wheter direction of slope of pattern is towars inner arm bone (radius) or outer arm bone (ulna)
+* Arches: Can be plain or tented
+
+
+
 
 
 # Formulas
@@ -84,12 +100,16 @@ ___
 # Setup
 
 ___
-# Reference_Source
+# References
 Europhys. Lett., 68 (1), pp. 141–146 (2004)
 DOI: 10.1209/epl/i2004-10161-2
 
+
+Dubey, Deepika. Fingerprints; 30 May 2018.
+
+
 ___
-# Team_Members:
+# Team Members
 
 * Luis Aarón Nieto Cruz.
 * Jadiel Zúñiga Rodriguez.
