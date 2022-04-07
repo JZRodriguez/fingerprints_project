@@ -25,7 +25,7 @@ This project aims to develop a model for fingerprint formation.
 
 # Introduction
 ## What are fingerprints?
-Fingerprints are patterns of friction ridge skin. Our fingers, palms of hands and soles of feet are characterized by ridges (hills) and valleys (furrows). Patterns form on skin surfaces early in embyonic development and are carried through life
+Fingerprints are skin patterns with friction ridges. Our fingers, palms and soles are characterized by ridges (hills) and valleys (furrows). Their formation occurs during fetal development, beginning at approximately the 10th week of gestation, being completed by the 17th week, and remaining throughout life.
 
 ## What are the patterns of fingerprints?
 There are three basic patterns of fingerprints:
