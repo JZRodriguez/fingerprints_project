@@ -8,13 +8,13 @@ ____
 * [Formulas](#Formulas)
 * [Justification](#Justification)
 * [Hypothesis](#Hypothesis)
-* [General Objectives](#General Objectives (our Research Questions))
-* [Specific Objectives](#Specific Objectives)
+* [General_Objectives](#General_Objectives_(our_Research_Questions))
+* [Specific_Objectives](#Specific_Objectives)
 * [Technologies](#Technologies)
 * [Packages](#Packages)
 * [Setup](#Setup)
 * [References](#References)
-* [Team Members](#Team Members)
+* [Team_Members](#Team_Members)
 
 
 ____
@@ -33,7 +33,7 @@ There are three basic patterns of fingerprints:
 * Loops: Radial or  ulnar, depending on wheter direction of slope of pattern is towars inner arm bone (radius) or outer arm bone (ulna)
 * Arches: Can be plain or tented
 
-
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20pattern.jpg 'Types of patterns')
 
 
 
@@ -65,12 +65,12 @@ ____
 Given that no person has the same attributes than another person, the expected result is that no two fingerprints analyzed will be the same.
 
 
-# General Objectives (our Research Questions)
+# General_Objectives_(our_Research_Questions)
 Fingerprints Growth formation pattern is dicted by highly complex interactions of múltiple inicial contions, listed  below. The main goal is to compute the discret ecuation of the paper "" published by , this we Home will allow us to create fingerprints give a range of viable inicial contions 
 This will also help analyze possible pattern designs and classify the characteristhics that define certain fingerprints. While we want to be able to create or own fingerprints, this could also help model fingerprints using existing data.
 
 
-# Specific Objectives
+# Specific_Objectives
 * Create a set of functions to model fingerprints given certain characteristics
 * Using real data, model the fingerprints with the given information of the person  
 * Analize the patterns that are shown to us
@@ -109,7 +109,7 @@ Dubey, Deepika. Fingerprints; 30 May 2018.
 
 
 ___
-# Team Members
+# Team_Members
 
 * Luis Aarón Nieto Cruz.
 * Jadiel Zúñiga Rodriguez.
