@@ -1,17 +1,11 @@
 # Dynamic_Systems_Fingerprint_Model
-UNAM-TICs-Dynamic Systems "Proyect"
+"Final Project",UNAM-TICs-Dynamic Systems 2022-1 class,taught by Dr. Victor de la Luz 
 
-
-___
-# Team_Members
-
-* Luis Aarón Nieto Cruz.
-* Jadiel Zúñiga Rodriguez.
-* Miguel Ángel Zamorano Presa.
 
 ____
 ## Table of Contents
-* [Proyect Overview](#Proyect_Overview)
+* [Team_Members](#Team_Members)
+* [Project Overview](#Project_Overview)
 * [Introduction](#Introduction)
 * [Formulas](#Formulas)
 * [Justification](#Justification)
@@ -21,27 +15,30 @@ ____
 * [Packages](#Packages)
 * [Setup](#Setup)
 * [References](#References)
-* [Team_Members](#Team_Members)
 * [License](#License)
 
+# Team_Members
 
+* Luis Aarón Nieto Cruz.
+* Jadiel Zúñiga Rodriguez.
+* Miguel Ángel Zamorano Presa.
 ____
-# Proyect_Overview
+# Project_Overview
 This project aims to develop a model for fingerprint formation. 
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20patterns%202.jpg 'Fingerprints')
 
 # Introduction
-Fingerprints Growth formation pattern is dicted by highly complex interactions of múltiple initial contions, listed  below. The main goal is to compute the discret ecuation of the paper " fingerprint formation model published in the scientific journal EUROPHYSICS LETTERS, "DOI: 10.1209/epl/i2004-10161-2""  this we Home will allow us to create fingerprints give a range of viable inicial conditions.
+Fingerprints Growth formation pattern is dictated by highly complex interactions of multiple initial conditions, listed  below. The main goal is to compute the discrete equation of the paper " fingerprint formation model published in the scientific journal EUROPHYSICS LETTERS, "DOI: 10.1209/epl/i2004-10161-2""  this we Home will allow us to create fingerprints give a range of viable initial conditions.
 
  
 ## What are fingerprints?
 Fingerprints are skin patterns with friction ridges. Our fingers, palms and soles are characterized by ridges (hills) and valleys (furrows). Their formation occurs during fetal development, beginning at approximately the 10th week of gestation, being completed by the 17th week, and remaining throughout life.
 
-## What are the patterns of fingerprints?
-There are three basic patterns of fingerprints:
-* Whorls: Most complex, and contain central pocket, double loop, and accidental
-* Loops: Radial or  ulnar, depending on wheter direction of slope of pattern is towars inner arm bone (radius) or outer arm bone (ulna)
+## What are the patterns of fingerprints? 
+There are three basic patterns of fingerprints: 
+* Whorls: Most complex, and contain central pocket, double loop, and accidental 
+* Loops: Radial or  ulnar, depending on whether direction of slope of pattern is towards inner arm bone (radius) or outer arm bone (ulna) 
 * Arches: Can be plain or tented
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20pattern.jpg 'Types of patterns')
@@ -59,16 +56,16 @@ There are three basic patterns of fingerprints:
 
 # Justification
 ### Why is it going to be done?
-The biggest inspiration for this proyect comes from the work of Patterns in Nature by Alan Turing.  stripes zebras,coats of cats ,leopards and cheetahs are surprisingly unique ,what makes stripes a tool for identify one animal from the rest ,Fingerprints are like our stripes.   
+The biggest inspiration for this project comes from the work of Alan Turing's Patterns in Nature. Zebra stripes, cat coats, leopards and cheetahs are surprisingly unique, making stripes a tool to identify one animal from the rest, fingerprints are like our stripes.   
 
 
  Turing’s theory was elegant and simple: any repeating natural pattern could be created by the interaction of two things — molecules, cells, whatever — with particular characteristics. Through a mathematical principle he called ‘reaction–diffusion’, these two components would spontaneously self-organise into spots, stripes, rings, swirls or dappled blobs.
 "https://ideas.ted.com/how-the-zebra-got-its-stripes-with-alan-turing/"
 
 # Limitations
-Physics and mathematical theory of embriology deals with higly complex dynamics systems ,some of them non-linear,its important to mention that we do not pretend to model the actual physical process of ridges formation(fingerprints),However ,the paper that we are analizing gives an alternative aproach,it takes the principal properties ,that we will list below ,to replicate the fingerprint formation during embiological process through ,multivariable calculus tools ,vectors spaces,and numerical methods .
+Physics and mathematical theory of embryology deals with highly complex dynamics systems ,some of them non-linear,its important to mention that we do not pretend to model the actual physical process of ridges formation(fingerprints),However ,the paper that we are analyzing gives an alternative approach,it takes the principal properties ,that we will list below ,to replicate the fingerprint formation during embryological process through ,multivariable calculus tools ,vectors spaces,and numerical methods.
 #  Goals
-* Get a better understanding of embriological process of epidermial ridge formation
+* Get a better understanding of embryological process of epidermial ridge formation
 * Tweak the  initial conditions to find those who generate the 3 principal patterns inf fingerprints classification  
 * Quantify those parameters and analize them  
 * Like any other Dynamic System,main goal is to be able to predict fingerprint form at any given point of time in the formation
@@ -124,8 +121,9 @@ DOI: 10.1209/epl/i2004-10161-2
 Dubey, Deepika. Fingerprints; 30 May 2018.
 
 
-
 ___
+
+
 # License
 Copyright © 2022 <mikezpresa@gmail.com,zujadiel@gmail.com,aaronnicruz@gmail.com>
 
@@ -134,5 +132,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
