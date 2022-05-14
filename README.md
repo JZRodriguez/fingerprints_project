@@ -95,10 +95,10 @@ Given that no person has the same attributes than another person, the expected r
 ___
 # Technologies
 
-* Python          version: 3.8  
+* [Python 3](https://www.python.org/)
 * Linux Ubuntu    64-bit
 * Linux Arch      64-bit
-* Github          https://www.github.com
+* [Github](https://www.github.com)
 * Windows 10      64-bit
 * Jupyter lab     3.2.9
 
