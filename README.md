@@ -19,9 +19,9 @@ ____
 
 # Team_Members
 
-* Luis Aarón Nieto Cruz. (LuisAaronNietoCruz)
-* Jadiel Zúñiga Rodriguez. (JZRodriguez)
-* Miguel Ángel Zamorano Presa. (miguelzpresa)
+* Luis Aarón Nieto Cruz. ([LuisAaronNietoCruz](https://github.com/LuisAaronNietoCruz))
+* Jadiel Zúñiga Rodriguez. ([JZRodriguez](https://github.com/JZRodriguez))
+* Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 ____
 # Project_Overview
 This project aims to develop a model for fingerprint formation. 
