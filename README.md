@@ -48,10 +48,23 @@ There are three basic patterns of fingerprints:
 # Formulas
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Formula1.jpg 'Formula 1')
-
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Formula2.jpg 'Formula 2')
-
+In this expression $Fyy$ denote the second partial
+derivative of $F$ with respect to y. Further $\nabla^2$ denotes
+the Laplacian. Also, we assume that the coordinate lines
+are the lines of principal curvature. The variable $w$
+denotes the normal deflection of the sheet and $F$ the Airy
+stress function. $E$ and $D$ = $Eh^3/12-1\mu^2$ are Young’s modulus
+and the bending modulus, respectively. m is Poisson’s
+ratio. Further $h$ denotes the shell thickness and $Rx$ and
+$Ry$ are the principal radii of curvature.
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Formula3.jpg 'Formula 3')
+Is a potential for the resistance of the surrounding
+tissues to normal displacements. In this expression, $p$
+denotes the normal pressure on the sheet, $\gamma$ and $\beta$ are the
+linear and cubic spring constant for the elastic foundation (dermis and intermediate layer) and $\alpha$ measures the
+asymmetry between the forces applied by the two
+foundations.
 
 
 # Justification
