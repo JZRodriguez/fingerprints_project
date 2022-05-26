@@ -46,6 +46,9 @@ There are three basic patterns of fingerprints:
 
 
 # Formulas
+The footprint will be constructed with a spherical coordinate domain over a cylindrical coordinate domain.
+
+The surface will be defined as a map of a rectangular region Omega where (u,v) will belong to Omega and the surface S will be defined as the image of the map r: Omega --> S
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F2.jpg 'F2')
 
