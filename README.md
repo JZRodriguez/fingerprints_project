@@ -112,9 +112,9 @@ ___
 
 ___
 # Packages<br>
-* Pandas     version 1.4.1
-* Matplotlib version:3.2.2  
-* Numpy      version:1.21.5  
+* [Pandas    version 1.4.1](https://pandas.pydata.org/)
+* [Matplotlib version 3.2.2](https://matplotlib.org/)
+* [Numpy      version 1.21.5](https://numpy.org/)  
 * Linux console
 
 ___
