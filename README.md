@@ -50,6 +50,8 @@ The footprint will be constructed with a spherical coordinate domain over a cyli
 
 The surface will be defined as a map of a rectangular region Omega where (u,v) will belong to Omega and the surface S will be defined as the image of the map r: Omega --> S
 
+The map is defined by:
+
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F2.jpg 'F2')
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg 'F3')
