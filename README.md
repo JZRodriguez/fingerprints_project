@@ -79,15 +79,10 @@ The biggest inspiration for this project comes from the work of Alan Turing's Pa
 Physics and mathematical theory of embryology deals with highly complex dynamics systems ,some of them non-linear,its important to mention that we do not pretend to model the actual physical process of ridges formation(fingerprints),However ,the paper that we are analyzing gives an alternative approach,it takes the principal properties ,that we will list below ,to replicate the fingerprint formation during embryological process through ,multivariable calculus tools ,vectors spaces,and numerical methods.
 #  Goals
 * Get a better understanding of embryological process of epidermial ridge formation
-* Tweak the  initial conditions to find those who generate the 3 principal patterns inf fingerprints classification  
-* Quantify those parameters and analize them  
-* Like any other Dynamic System,main goal is to be able to predict fingerprint form at any given point of time in the formation
-* Find critical points,linear stability ,convergence points ,Limit cycles ,Local ,Global Bifurcation
-
-* Study the model as a System and not as a simple ecuation
-* Create our final report of findings
-* And the funny  part  ,create our own fingerprints
-* Check if the assumptions and observations that the paper gives are reproducible,and scalable
+* Understand the problem domain 
+* Implement a vector surface as close as possible to a finger (the domain)
+* Compute a sphere 
+* Implement the equations to simulate as close as possible to a fingerprint
 
 ### How is it going to be done?
 Compute a fingerprint formation model published in the scientific journal EUROPHYSICS LETTERS, "DOI: 10.1209/epl/i2004-10161-2" to generate fingerprints from initial parameters inserted by the user.
