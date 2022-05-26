@@ -46,11 +46,11 @@ There are three basic patterns of fingerprints:
 
 
 # Formulas
+
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F2.jpg 'F2')
+
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Formula1.jpg 'Formula 1')
 
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Formula2.jpg 'Formula 2')
-
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Formula3.jpg 'Formula 3')
 
 
 
