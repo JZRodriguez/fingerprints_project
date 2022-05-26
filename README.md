@@ -49,7 +49,7 @@ There are three basic patterns of fingerprints:
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F2.jpg 'F2')
 
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Formula1.jpg 'Formula 1')
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg 'F3')
 
 
 
