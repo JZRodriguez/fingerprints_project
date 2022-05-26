@@ -53,8 +53,10 @@ The surface will be defined as a map of a rectangular region Omega where (u,v) w
 The map is defined by:
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F2.jpg 'F2')
-r0 is a parameter to be chosen close to the average radius of curvature of the pad. In addition we have a function r(u, v) denoting the surface distance. This construction guarantees a smooth surface (at least once differentiable) for all smooth r(u, v). The geometry of the pad can now be specified by choosing a certain function r(u, v). It is given by
+
+r is a parameter to be chosen close to the average radius of curvature of the pad. In addition we have a function r(u, v) denoting the surface distance. This construction guarantees a smooth surface (at least once differentiable) for all smooth r(u, v). The geometry of the pad can now be specified by choosing a certain function r(u, v). It is given by
 the following expression: 
+
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg 'F3')
 
 
