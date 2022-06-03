@@ -32,9 +32,6 @@ ax = fig.add_subplot(111, projection = '3d')
 U = np.arange(-1.0, 1.0, 0.1)
 V = np.arange(-1.0, 1.0, 0.1)
 
-for u,v in zip(U, V) :
-    print(u, v)
-
 
 S = []
 for u in U :
@@ -44,7 +41,7 @@ for u in U :
 
 print(S)
 
-ax.plot(S[0], S[1], S[2])
+ax.scatter(S, S, S)
 
 
         
