@@ -85,8 +85,8 @@ def plot_compare(a, b, ap, bp, title = '', show = False, nf = True) :
 
 
 
-fig = plt.Figure(figsize=(5,5))
-ax = plt.axes(projection="3d")
+#fig = plt.Figure(figsize=(5,5))
+#ax = plt.axes(projection="3d")
 
 # Data
 r = 0.05
@@ -98,14 +98,14 @@ u, v = np.meshgrid(phi, theta)
 x = np.cos(u) * np.sin(v)
 y = np.sin(v) * np.sin(u)
 z = np.cos(v)
-ax.plot_surface(x, y, z, cmap = plt.cm.YlGnBu_r, alpha = 0.6)
-plt.grid()
-plt.show()
+#ax.plot_surface(x, y, z, cmap = plt.cm.YlGnBu_r, alpha = 0.6)
+#plt.grid()
+#plt.show()
 
 
 
-fig = plt.Figure(figsize=(5, 5))
-ax = plt.axes(projection="3d")
+#fig = plt.Figure(figsize=(5, 5))
+#ax = plt.axes(projection="3d")
 # Data
 r = 0.05
 phi = np.linspace(0, (2*np.pi), 30)
@@ -121,14 +121,14 @@ y = np.sin(v) * np.sin(u)
 y *= ry
 z = np.cos(0.5*v)
 z *= rz
-ax.plot_surface(x, y, z, alpha = 0.6, cmap = plt.cm.YlGnBu_r)
-plt.grid()
-plt.show()
+#ax.plot_surface(x, y, z, alpha = 0.6, cmap = plt.cm.YlGnBu_r)
+#plt.grid()
+#plt.show()
 
 
 
-fig = plt.figure(figsize = plt.figaspect(1))
-ax = fig.add_subplot(111, projection = '3d')
+#fig = plt.figure(figsize = plt.figaspect(1))
+#ax = fig.add_subplot(111, projection = '3d')
 
 coefs = (2, 1, 1)  # COefficients in a0/c x**2 + a1/c y**2 + a2/c z**2 = 1
 # Radii corresponding to the coefficients :
@@ -144,26 +144,26 @@ y = ry * np.outer(np.sin(u), np.sin(v))
 z = rz * np.outer(np.ones_like(u), np.cos(v))
 
 # Plot :
-ax.plot_surface(x, y, z, alpha = 0.6, cmap = 'BuPu')
+#ax.plot_surface(x, y, z, alpha = 0.6, cmap = 'BuPu')
 # Adjustment of the axes, so that they all have the same span:
 max_radius = max(rx, ry, rz)
-for axis in 'xyz' :
-    getattr(ax, 'set_{}lim'.format(axis))((-max_radius, max_radius))
+#for axis in 'xyz' :
+#    getattr(ax, 'set_{}lim'.format(axis))((-max_radius, max_radius))
 
-plt.show()
+#plt.show()
 
 
 
 data = np.linspace(0, 2*(np.pi), 5)
 y, x = np.meshgrid(data, data)
 
-figure = plt.Figure(figsize = (5, 4))
-ax = plt.axes(projection = "3d")
+#figure = plt.Figure(figsize = (5, 4))
+#ax = plt.axes(projection = "3d")
 data = np.linspace(0, 2*(np.pi), 5)
 
 X, Y = np.meshgrid(data,data)
 Z = f(X, Y)
-ax.plot_surface(X, Y, Z)
+#ax.plot_surface(X, Y, Z)
 
 
 
@@ -178,6 +178,25 @@ for u in U :
     for v in V :
         S.append(r_vec(u,v))
 
-ax.scatter(S[0], S[1], S[2])
+#print("Esto es S")
+#print(S)
 
+#for u, v in zip(U, V) :
+#    S1.append(r_vec(u, v))
+
+#print("Esto es S1")
+#print(S1)
+
+S1 = []
+S2 = []
+S3 = []
+
+for i in S :
+    S1.append(i[0])
+    S2.append(i[1])
+    S3.append(i[2])
+
+ax.scatter(S1, S2, S3)
+    
+plt.grid()
 plt.show()
