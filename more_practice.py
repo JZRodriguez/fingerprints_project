@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 from itertools import product
 import math
+import random
 
 
 
@@ -22,9 +23,13 @@ def f(x, y) :
 def rho (u, v) :
     global r0
     r0 = 1
+    mu = 1
+    sigma = 0.05
     c = []
     for i in range (17) :
         c.append(1)
+        #c.append(random.normalvariate(mu,sigma))
+        
     theta = (math.atan(-c[15]*(v-c[16]))+1)/2
     return ((c[1]+(c[2]*math.exp(-((v-c[3])**2)/c[4])+c[5])*math.sin(u/r0)) + ((c[6]*math.exp(-((v-c[7])**2)/c[8])+c[9])*math.sin((2*u)/r0)) + ((c[10]*math.exp(-((v-c[11])**2)/c[12])+c[13])*math.sin((3*u)/r0)))*theta + (1/math.sqrt((math.cos(u/r0)**2/(c[1]**2))+(math.sin(v/r0)**2/(c[14]**2))))*(1-theta)
 
@@ -170,8 +175,8 @@ Z = f(X, Y)
 fig = plt.figure()
 ax = fig.add_subplot(111, projection = '3d')
 
-U = np.arange(-1.0, 1.0, 0.1)
-V = np.arange(-1.0, 1.0, 0.1)
+U = np.arange(-1.0, 1.0, 0.01)
+V = np.arange(-1.0, 1.0, 0.01)
 
 S = []
 for u in U :
@@ -196,7 +201,8 @@ for i in S :
     S2.append(i[1])
     S3.append(i[2])
 
-ax.scatter(S1, S2, S3)
-    
+ax.scatter(S1, S2, S3,s = 0.5 )
+#ax.quiver(U, V, V, S1, S2, S3)
+
 plt.grid()
 plt.show()
