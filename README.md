@@ -5,6 +5,7 @@
 ____
 ## Table of Contents
 * [Team_Members](#Team_Members)
+* [License](#License)
 * [Project Overview](#Project_Overview)
 * [Introduction](#Introduction)
 * [Equations](#Equations)
@@ -15,13 +16,24 @@ ____
 * [Packages](#Packages)
 * [Results](#Results)
 * [References](#References)
-* [License](#License)
 
+____
 # Team_Members
 
 * Luis Aarón Nieto Cruz. ([LuisAaronNietoCruz](https://github.com/LuisAaronNietoCruz))
 * Jadiel Zúñiga Rodriguez. ([JZRodriguez](https://github.com/JZRodriguez))
 * Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
+
+____
+# License
+Copyright © 2022 <mikezpresa@gmail.com, zujadiel@gmail.com, aaronnicruz@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ____
 # Project_Overview
 This project aims to develop a model for fingerprint formation. 
@@ -62,7 +74,7 @@ the following expression:
 
 
 # Justification
-### Why is it going to be done?
+
 The biggest inspiration for this project comes from the work of Alan Turing's Patterns in Nature. Zebra stripes, cat coats, leopards and cheetahs are surprisingly unique, making stripes a tool to identify one animal from the rest, fingerprints are like our stripes.   
 
 
@@ -131,15 +143,3 @@ Dubey, Deepika. Fingerprints; 30 May 2018.
 Michael Kucken and Alan C. Newell. Fingerprint formation. Journal of Theoretical Biology, 235(13):71–83, 2005
 
 https://github.com/asahidari/differentialgrowthsnliteb3d4
-
-___
-
-
-# License
-Copyright © 2022 <mikezpresa@gmail.com,zujadiel@gmail.com,aaronnicruz@gmail.com>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
