@@ -118,6 +118,9 @@ ___
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba3.jpg 'Prueba3')
 
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Crecimiento-diferencial.jpg 'Crecimiento-diferencial')
+
+
 ___
 # References
 Europhys. Lett., 68 (1), pp. 141–146 (2004)
@@ -125,6 +128,9 @@ DOI: 10.1209/epl/i2004-10161-2
 
 Dubey, Deepika. Fingerprints; 30 May 2018.
 
+Michael Kucken and Alan C. Newell. Fingerprint formation. Journal of Theoretical Biology, 235(13):71–83, 2005
+
+https://github.com/asahidari/differentialg rowthsnliteb3d4
 
 ___
 
