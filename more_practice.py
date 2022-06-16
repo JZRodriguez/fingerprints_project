@@ -1,4 +1,4 @@
-# Copyright (C) 2022  Jadiel Zu ̃niga Rodriguez
+# Copyright (C) 2022  Jadiel Zuñiga Rodriguez
 #                     Luis Aarón Nieto Cruz
 #                     Miguel Ángel Zamorano Presa
 #
