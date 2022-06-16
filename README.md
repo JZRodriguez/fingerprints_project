@@ -40,6 +40,9 @@ This project aims to develop a model for fingerprint formation.
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20patterns%202.jpg 'Fingerprints')
 
+Freepik Company. (2010-2022). Detailed fingerprint icons. Retrieved from (https://www.freepik.es/vector-premium/iconos-detallados-huellas-dactilares-escaner-policia-pulgar-simbolos-vectoriales-identidad-persona-seguridad-id-pictogramos-dedo-identidad-tecnologia-biometric_4866225.htm)
+
+
 # Introduction
 Fingerprints Growth formation pattern is dictated by highly complex interactions of multiple initial conditions, listed  below. The main goal is to generate fongerprints based of the paper " fingerprint formation model published in the scientific journal EUROPHYSICS LETTERS, "DOI: 10.1209/epl/i2004-10161-2""
  
@@ -53,7 +56,6 @@ There are three basic patterns of fingerprints:
 * Arches (c): Can be plain or tented
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20pattern.jpg 'Types of patterns')
-
 
 
 # Equations
