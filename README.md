@@ -36,9 +36,9 @@ Fingerprints are skin patterns with friction ridges. Our fingers, palms and sole
 
 ## What are the patterns of fingerprints? 
 There are three basic patterns of fingerprints: 
-* Whorls: Most complex, and contain central pocket, double loop, and accidental 
-* Loops: Radial or  ulnar, depending on whether direction of slope of pattern is towards inner arm bone (radius) or outer arm bone (ulna) 
-* Arches: Can be plain or tented
+* Whorls (a): Most complex, and contain central pocket, double loop, and accidental 
+* Loops (b): Radial or  ulnar, depending on whether direction of slope of pattern is towards inner arm bone (radius) or outer arm bone (ulna) 
+* Arches (c): Can be plain or tented
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20pattern.jpg 'Types of patterns')
 
@@ -66,20 +66,18 @@ the following expression:
 The biggest inspiration for this project comes from the work of Alan Turing's Patterns in Nature. Zebra stripes, cat coats, leopards and cheetahs are surprisingly unique, making stripes a tool to identify one animal from the rest, fingerprints are like our stripes.   
 
 
- Turing’s theory was elegant and simple: any repeating natural pattern could be created by the interaction of two things — molecules, cells, whatever — with particular characteristics. Through a mathematical principle he called ‘reaction–diffusion’, these two components would spontaneously self-organise into spots, stripes, rings, swirls or dappled blobs.
+Turing’s theory was elegant and simple: any repeating natural pattern could be created by the interaction of two things — molecules, cells, whatever — with particular characteristics. Through a mathematical principle he called ‘reaction–diffusion’, these two components would spontaneously self-organise into spots, stripes, rings, swirls or dappled blobs.
 "https://ideas.ted.com/how-the-zebra-got-its-stripes-with-alan-turing/"
 
 # Limitations
 Physics and mathematical theory of embryology deals with highly complex dynamics systems ,some of them non-linear,its important to mention that we do not pretend to model the actual physical process of ridges formation(fingerprints),However ,the paper that we are analyzing gives an alternative approach,it takes the principal properties ,that we will list below ,to replicate the fingerprint formation during embryological process through ,multivariable calculus tools ,vectors spaces,and numerical methods.
+
 #  Goals
 * Get a better understanding of embryological process of epidermial ridge formation
 * Understand the problem domain 
 * Implement a vector surface as close as possible to a finger (the domain)
 * Compute a sphere 
-* Implement the equations to simulate as close as possible to a fingerprint
-
-### How is it going to be done?
-Compute a fingerprint formation model published in the scientific journal EUROPHYSICS LETTERS, "DOI: 10.1209/epl/i2004-10161-2" to generate fingerprints from initial parameters inserted by the user.
+* Simulate the closest thing to a fingerprint
 
 
 ____
@@ -103,6 +101,7 @@ ___
 * [Github](https://www.github.com)
 * Windows 10      64-bit
 * Jupyter lab     3.2.9
+* [Blender](https://www.blender.org/)
 
 ___
 # Packages<br>
@@ -118,7 +117,6 @@ ___
 # References
 Europhys. Lett., 68 (1), pp. 141–146 (2004)
 DOI: 10.1209/epl/i2004-10161-2
-
 
 Dubey, Deepika. Fingerprints; 30 May 2018.
 
