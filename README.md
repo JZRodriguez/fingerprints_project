@@ -57,6 +57,7 @@ There are three basic patterns of fingerprints:
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20pattern.jpg 'Types of patterns')
 
+M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 80 Fig.11. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
 
 # Equations
 The footprint will be constructed with a spherical coordinate domain over a cylindrical coordinate domain.
@@ -105,6 +106,9 @@ Given that no person has the same attributes than another person, the expected r
 
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20examples.jpg 'Fingerprint models')
+
+M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 79 Fig.10. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
+
 
 ___
 # Technologies
