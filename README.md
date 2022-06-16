@@ -7,7 +7,7 @@ ____
 * [Team_Members](#Team_Members)
 * [Project Overview](#Project_Overview)
 * [Introduction](#Introduction)
-* [Formulas](#Formulas)
+* [Equations](#Equations)
 * [Justification](#Justification)
 * [Hypothesis](#Hypothesis)
 * [Goals](#Goals)
