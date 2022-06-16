@@ -13,7 +13,7 @@ ____
 * [Goals](#Goals)
 * [Technologies](#Technologies)
 * [Packages](#Packages)
-* [Setup](#Setup)
+* [Results](#Results)
 * [References](#References)
 * [License](#License)
 
@@ -111,7 +111,7 @@ ___
 * Linux console
 
 ___
-# Setup
+# Results
 
 ___
 # References
