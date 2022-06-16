@@ -112,6 +112,11 @@ ___
 
 ___
 # Results
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba1.jpg 'Prueba1')
+
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba2.jpg 'Prueba2')
+
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba3.jpg 'Prueba3')
 
 ___
 # References
