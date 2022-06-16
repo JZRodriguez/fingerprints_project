@@ -130,7 +130,7 @@ Dubey, Deepika. Fingerprints; 30 May 2018.
 
 Michael Kucken and Alan C. Newell. Fingerprint formation. Journal of Theoretical Biology, 235(13):71–83, 2005
 
-https://github.com/asahidari/differentialg rowthsnliteb3d4
+https://github.com/asahidari/differentialgrowthsnliteb3d4
 
 ___
 
