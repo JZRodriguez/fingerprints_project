@@ -123,7 +123,8 @@ Once the Generation of points in the program is completed ,the next step is to c
 
 * 3rd .In order to recreate a reallistic vector field that simulates the flow dynamics of the Elastic Shield Plate that is our Sphere Surface ,the values that  we use were the same of our Thesis that we are following,this values were the input of the direction of the fields.
 * 
-![image](https://user-images.githubusercontent.com/49998408/174318237-f1083baf-a832-4274-91b0-9b27a0e46ca8.png)
+![image](https://user-images.githubusercontent.com/49998408/174323334-e90980cc-7769-469f-ae0c-c1e5ce3fc100.png)
+
 
 
 
@@ -152,6 +153,7 @@ ___
 
 ___
 # Results
+
 ![image](https://user-images.githubusercontent.com/49998408/174307759-a60ce64b-147d-40d2-b2b0-32afe17d3b85.png)
 
 
@@ -161,7 +163,7 @@ ___
 
 ____
 # Conclusions
-
+The way we achieve to find the 3 different Fingerprints  Patterns was by playing with our initial wavevector values,not really by changing the original value but from changing the signs or moving the value of x to y position and viceversa,because changes minimal changes were not to visible and the bigger ones break with our intentions of finding the shape of a buckling flow pattern .The relevance in this proyect abut Blender Animation was that it allow us to compute in a fast and realistic way the fingerprints growth ,and generates buckling all around the surface of the finger,not only that but to skip natural process such as time ,because what the simulation achieves in seconds in nature is the process of weeks of formation, and in a micro scale.
 
 
 
