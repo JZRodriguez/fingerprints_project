@@ -118,10 +118,13 @@ Surface Domain Solution is equally defined for  The 3 Prototypes.
 as 
 phi,theta = [ 0 ,2*pi]
 and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
-Once the Generation of points in the program is completed ,the next step is to create the grif for the future 3dimentional plot  
+Once the Generation of points in the program is completed ,the next step is to create the grid for the future 3dimentional plot  
 * 2nd.Step.Yield the surface of a sphere taking as input the previous points created each to the ecuations ,the output are the points of our grid
 
-*3rd .Step.
+* 3rd .In order to recreate a reallistic vector field that simulates the flow dynamics of the Elastic Shield Plate that is our Sphere Surface ,the values that  we use were the same of our Thesis that we are following,this values were the input of the direction of the fields.
+* 
+![image](https://user-images.githubusercontent.com/49998408/174318237-f1083baf-a832-4274-91b0-9b27a0e46ca8.png)
+
 
 
 
@@ -144,6 +147,8 @@ ___
 * [Matplotlib version 3.2.2](https://matplotlib.org/)
 * [Numpy      version 1.21.5](https://numpy.org/)  
 * Linux console
+* https://github.com/nortikin/sverchok/
+* https://github.com/inca/blender-differential-growth/blob/main/op_grow.py
 
 ___
 # Results
@@ -169,7 +174,11 @@ initialize jupyter notebook Navegate where the file is located (Downloads ) and 
 For Python Script:
 type ./more_practice.py
 For Blender Animation
-Download finger_print.blend,open your blender program,open the file inside blender,open menu of upper left section,select sverchock,once it opens a new dark window,go to right side of the window select toggle to open ,select shervock,open available progrmas clic in node tree,the  the Info_wrapper node will be in the right side at the botton(color green)you will see a botton of the simbol of play to start the  animation.
+Download finger_print.blend,download Sverchock zip "https://github.com/nortikin/sverchok/"open your blender program,open the file inside blender,open menu of upper left section,select preferences,then clic on  Add ons  
+,clic on install package,select sverchock zip ,install it ,clic on the sverchock activate botton,save configuration,open menu of upper left section,select sverchok ,once it opens a new dark window,go to right side of the window select toggle to open ,select shervock,open available progrmas clic in node tree,the  the Info_wrapper node will be in the right side at the botton(color green)you will see a botton of the simbol of play to start the  animation.  
+One final step.  
+Go to  https://github.com/inca/blender-differential-growth/blob/main/op_grow.py copy the code ,open a python terminal in blender and paste it,clic run 
+With the Code running you can know start the infowrapper button and enjoy the animation.
 
 ___
 # References
