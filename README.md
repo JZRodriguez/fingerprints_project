@@ -111,8 +111,8 @@ r0 is a parameter to be chosen close to the average radius of curvature of the p
 the following expression: 
 <img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg" width="50%"/>  
 
- #</a>
-                                                                                                                                               <a href="url">
+ 
+                                                                                                                                             
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg  'F3')
 
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
@@ -166,10 +166,11 @@ thats why 3d axis ticks are aligned in ranges from -[1 ,1]
 
 ![image](https://user-images.githubusercontent.com/49998408/174307759-a60ce64b-147d-40d2-b2b0-32afe17d3b85.png)
 
+<img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba3.jpg" width="50%"/> 
 
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba3.jpg 'Prueba3')
 
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Crecimiento-diferencial.jpg 'Crecimiento-diferencial')
+<img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/Crecimiento-diferencial.jpg" width="50%"/> 
+
 
 ____
 # Conclusions
