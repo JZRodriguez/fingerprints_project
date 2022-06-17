@@ -109,9 +109,10 @@ M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Ret
 
 r0 is a parameter to be chosen close to the average radius of curvature of the pad. In addition we have a function r(u, v) denoting the surface distance. This construction guarantees a smooth surface (at least once differentiable) for all smooth r(u, v). The geometry of the pad can now be specified by choosing a certain function r(u, v). It is given by
 the following expression: 
-<img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg" width="50%" height="50%"" align="left" height="100" width="100" / >  
+<img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg" width="50%"/>  
 
-                                                                                                                                               </a>
+ #</a>
+                                                                                                                                               <a href="url">
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg  'F3')
 
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
