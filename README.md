@@ -60,7 +60,10 @@ There are three basic patterns of fingerprints:
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 80 Fig.11. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
 
 # Equations
-The footprint will be constructed with a spherical coordinate domain over a cylindrical coordinate domain.
+Surface Domain Solution is equally defined for  The 3 Prototypes.
+as 
+phi,theta = [ 0 ,2*pi]
+and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
 
 The surface will be defined as a map of a rectangular region Omega where (u,v) will belong to Omega and the surface S will be defined as the image of the map r: Omega --> S
 
@@ -74,8 +77,8 @@ M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Ret
 
 r0 is a parameter to be chosen close to the average radius of curvature of the pad. In addition we have a function r(u, v) denoting the surface distance. This construction guarantees a smooth surface (at least once differentiable) for all smooth r(u, v). The geometry of the pad can now be specified by choosing a certain function r(u, v). It is given by
 the following expression: 
-
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg 'F3')
+<a href="url"><img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%"" align="left" height="100" width="100" ></a>
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%" 'F3')
 
 
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
@@ -90,15 +93,15 @@ The biggest inspiration for this project comes from the work of Alan Turing's Pa
 Turing’s theory was elegant and simple: any repeating natural pattern could be created by the interaction of two things — molecules, cells, whatever — with particular characteristics. Through a mathematical principle he called ‘reaction–diffusion’, these two components would spontaneously self-organise into spots, stripes, rings, swirls or dappled blobs.
 "https://ideas.ted.com/how-the-zebra-got-its-stripes-with-alan-turing/"
 
-# Limitations
+# Constraints
 Physics and mathematical theory of embryology deals with highly complex dynamics systems ,some of them non-linear,its important to mention that we do not pretend to model the actual physical process of ridges formation(fingerprints),However ,the paper that we are analyzing gives an alternative approach,it takes the principal properties ,that we will list below ,to replicate the fingerprint formation during embryological process through ,multivariable calculus tools ,vectors spaces,and numerical methods.
 
 #  Goals
 * Get a better understanding of embryological process of epidermial ridge formation
 * Understand the problem domain 
-* Implement a vector surface as close as possible to a finger (the domain)
-* Compute a sphere 
-* Simulate the closest thing to a fingerprint
+* Implement the 3 Principal Patterns :Whorls,Loops.Archs
+* Analize the different dynamics output from different initial conditions
+* Simulate the closest thing to a fingerprint 
 
 
 ____
@@ -107,7 +110,7 @@ ____
 * Stability in the solutions of the ecuations
 Given that no person has the same attributes than another person, the expected result is that no two fingerprints analyzed will be the same.
 * The stress field anticipates the direction of the ridge system and also predicts in what  areas buckling will take place first
-* Von Kallman Ecuations will perform as planned to calculate the buckling patterns
+* Wavevectors Ecuations will perform as planned to calculate the buckling patterns
 
 
 
@@ -117,7 +120,7 @@ M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Ret
 
 
 ___
-# Technologies
+# Libreries
 
 * [Python 3](https://www.python.org/)
 * Linux Ubuntu    64-bit
@@ -126,6 +129,7 @@ ___
 * Windows 10      64-bit
 * Jupyter lab     3.2.9
 * [Blender](https://www.blender.org/)
+* 
 
 ___
 # Packages<br>
@@ -144,7 +148,9 @@ ___
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Crecimiento-diferencial.jpg 'Crecimiento-diferencial')
 
-
+# Executing Software Intructions
+To run the software, open a terminal  ,initialize jupyter notebook   
+Navegate where the file is located (Downloads ) and clic to the file name called Fingerprints_Models.ipynb
 ___
 # References
 Europhys. Lett., 68 (1), pp. 141–146 (2004)
