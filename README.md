@@ -164,7 +164,10 @@ To run the software, open a terminal:
 To see 3 Models:  
 initialize jupyter notebook Navegate where the file is located (Downloads ) and clic to the file name called Fingerprints_Models.ipynb
 For Python Script:
-type ./
+type ./more_practice.py
+For Blender Animation
+Download finger_print.blend,open your blender program,open the file inside blender,open menu of upper left section,select sverchock,once it opens a new dark window,go to right side of the window select toggle to open ,select shervock,open available progrmas clic in node tree,the  the Info_wrapper node will be in the right side at the botton(color green)you will see a botton of the simbol of play to start the  animation.
+
 ___
 # References
 Europhys. Lett., 68 (1), pp. 141–146 (2004)
