@@ -121,7 +121,7 @@ and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
 Once the Generation of points in the program is completed ,the next step is to create the grid for the future 3dimentional plot  
 * 2nd.Step.Yield the surface of a sphere taking as input the previous points created each to the ecuations ,the output are the points of our grid
 
-* 3rd .In order to recreate a reallistic vector field that simulates the flow dynamics of the Elastic Shield Plate that is our Sphere Surface ,the values that  we use were the same of our Thesis that we are following,this values were the input of the direction of the fields.
+* 3rd .In order to recreate a reallistic vector field that simulates the flow dynamics of the Elastic Shield Plate that is our Sphere Surface ,the values that  we use were the same of our Thesis that we are following,  this values were the input of the direction of the fields.
 ![image](https://user-images.githubusercontent.com/49998408/174407919-cf1e8961-b9e4-4115-b445-e95b069a9103.png)
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 79 Fig.10. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
 
@@ -156,8 +156,9 @@ ___
 For Purposes of Simulation the Metrics Ssystem presented on Simulations was decimal base:  
 Surface Domain Solution is equally defined for  The 3 Prototypes.
 as 
-phi,theta = [ 0 ,2*pi]
-and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
+phi,theta = [ 0 ,2*pi]  
+and radious =1  
+thats why 3d axis ticks are aligned in ranges from -[1 ,1]
 
 
 ![image](https://user-images.githubusercontent.com/49998408/174307759-a60ce64b-147d-40d2-b2b0-32afe17d3b85.png)
