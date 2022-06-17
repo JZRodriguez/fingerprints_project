@@ -8,13 +8,15 @@ ____
 * [License](#License)
 * [Project Overview](#Project_Overview)
 * [Introduction](#Introduction)
-* [Equations](#Equations)
 * [Justification](#Justification)
-* [Hypothesis](#Hypothesis)
 * [Goals](#Goals)
-* [Technologies](#Technologies)
+* [Hypothesis](#Hypothesis)
+* [Metodology](#Metodology)
+* [Libreries](#Libreries)
 * [Packages](#Packages)
 * [Results](#Results)
+* [Conclusions](#Conclusions)
+* [Executing_Software_Intructions](#Executing_Software_Intructions)
 * [References](#References)
 
 ____
@@ -58,33 +60,7 @@ There are three basic patterns of fingerprints:
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Fingerprints%20pattern.jpg 'Types of patterns')
 
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 80 Fig.11. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
-
-# Equations
-Surface Domain Solution is equally defined for  The 3 Prototypes.
-as 
-phi,theta = [ 0 ,2*pi]
-and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
-
-The surface will be defined as a map of a rectangular region Omega where (u,v) will belong to Omega and the surface S will be defined as the image of the map r: Omega --> S
-
-The map is defined by:
-
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F2.jpg 'F2')
-
-
-M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
-
-
-r0 is a parameter to be chosen close to the average radius of curvature of the pad. In addition we have a function r(u, v) denoting the surface distance. This construction guarantees a smooth surface (at least once differentiable) for all smooth r(u, v). The geometry of the pad can now be specified by choosing a certain function r(u, v). It is given by
-the following expression: 
-<a href="url"><img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%"" align="left" height="100" width="100" ></a>
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%" 'F3')
-
-
-M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
-
-
-
+______
 # Justification
 
 The biggest inspiration for this project comes from the work of Alan Turing's Patterns in Nature. Zebra stripes, cat coats, leopards and cheetahs are surprisingly unique, making stripes a tool to identify one animal from the rest, fingerprints are like our stripes.   
@@ -118,6 +94,34 @@ Given that no person has the same attributes than another person, the expected r
 
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 79 Fig.10. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
 
+______
+# Methodology
+Surface Domain Solution is equally defined for  The 3 Prototypes.
+as 
+phi,theta = [ 0 ,2*pi]
+and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
+
+The surface will be defined as a map of a rectangular region Omega where (u,v) will belong to Omega and the surface S will be defined as the image of the map r: Omega --> S
+
+The map is defined by:
+
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F2.jpg 'F2')
+
+
+M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
+
+
+r0 is a parameter to be chosen close to the average radius of curvature of the pad. In addition we have a function r(u, v) denoting the surface distance. This construction guarantees a smooth surface (at least once differentiable) for all smooth r(u, v). The geometry of the pad can now be specified by choosing a certain function r(u, v). It is given by
+the following expression: 
+<a href="url"><img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%"" align="left" height="100" width="100" ></a>
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%" 'F3')
+
+
+M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
+
+
+
+
 
 ___
 # Libreries
@@ -140,17 +144,27 @@ ___
 
 ___
 # Results
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba1.jpg 'Prueba1')
+![image](https://user-images.githubusercontent.com/49998408/174307759-a60ce64b-147d-40d2-b2b0-32afe17d3b85.png)
 
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba2.jpg 'Prueba2')
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Prueba3.jpg 'Prueba3')
 
 ![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/Crecimiento-diferencial.jpg 'Crecimiento-diferencial')
 
-# Executing Software Intructions
-To run the software, open a terminal  ,initialize jupyter notebook   
-Navegate where the file is located (Downloads ) and clic to the file name called Fingerprints_Models.ipynb
+____
+# Conclusions
+
+
+
+
+_____
+# Executing_Software_Intructions
+
+To run the software, open a terminal:  
+To see 3 Models:  
+initialize jupyter notebook Navegate where the file is located (Downloads ) and clic to the file name called Fingerprints_Models.ipynb
+For Python Script:
+type ./
 ___
 # References
 Europhys. Lett., 68 (1), pp. 141–146 (2004)
