@@ -96,10 +96,6 @@ M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Ret
 
 ______
 # Methodology
-Surface Domain Solution is equally defined for  The 3 Prototypes.
-as 
-phi,theta = [ 0 ,2*pi]
-and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
 
 The surface will be defined as a map of a rectangular region Omega where (u,v) will belong to Omega and the surface S will be defined as the image of the map r: Omega --> S
 
@@ -114,11 +110,18 @@ M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Ret
 r0 is a parameter to be chosen close to the average radius of curvature of the pad. In addition we have a function r(u, v) denoting the surface distance. This construction guarantees a smooth surface (at least once differentiable) for all smooth r(u, v). The geometry of the pad can now be specified by choosing a certain function r(u, v). It is given by
 the following expression: 
 <a href="url"><img src="https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%"" align="left" height="100" width="100" ></a>
-![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg width="50%" height="50%" 'F3')
-
+![Alt text](https://github.com/JZRodriguez/fingerprints_project/blob/main/F3.jpg  'F3')
 
 M. Kücken, A.C. Newell / Journal of Theoretical Biology 235 (2005) 71–83. Retrieved from page 82. [Link to the article](https://www.math.arizona.edu/~anewell/publications/Fingerprint_Formation.pdf)
+# For the 3 Pattern Models
+Surface Domain Solution is equally defined for  The 3 Prototypes.
+as 
+phi,theta = [ 0 ,2*pi]
+and radious =1 thats why 3d axis ticks are aligned in ranges from -[1 ,1]
+Once the Generation of points in the program is completed ,the next step is to create the grif for the future 3dimentional plot  
+* 2nd.Step.Yield the surface of a sphere taking as input the previous points created each to the ecuations ,the output are the points of our grid
 
+*3rd .Step.
 
 
 
